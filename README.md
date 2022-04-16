@@ -9,10 +9,13 @@
 - 📫 Contact: https://www.linkedin.com/in/stevemcilwain/
 - ⚡ Fun fact: I have a cat with 3.5 teeth
 
+<br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=stevemcilwain&&show_icons=true&theme=tokyonight">
 
+<br>
 ### Favorite Languages
 
-<image src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
+<image src="https://img.shields.io/badge/Language-C%23-blue">
   
 
