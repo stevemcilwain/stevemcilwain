@@ -14,8 +14,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=stevemcilwain&&show_icons=true&theme=tokyonight">
 
 <br>
-### Favorite Languages
 
 <image src="https://img.shields.io/badge/Language-C%23-blue">
-  
+<image src="https://img.shields.io/badge/Language-C%2B%2B-red">
+<image src="https://img.shields.io/badge/Language-Python-yellow">
 
