@@ -11,11 +11,15 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevemcilwain&&show_icons=true&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevemcilwain&show_icons=true&theme=dark&count_private=true">
 
 <br>
 
 <image src="https://img.shields.io/badge/Language-C%23-blue">
 <image src="https://img.shields.io/badge/Language-C%2B%2B-red">
 <image src="https://img.shields.io/badge/Language-Python-yellow">
+  
+<br>
 
+<image src="https://img.shields.io/badge/Tools-Unity-lightgrey">
+  
