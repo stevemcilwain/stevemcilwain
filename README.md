@@ -18,8 +18,11 @@
 <image src="https://img.shields.io/badge/Language-C%23-blue">
 <image src="https://img.shields.io/badge/Language-C%2B%2B-red">
 <image src="https://img.shields.io/badge/Language-Python-yellow">
-  
-<br>
-
+<image src="https://img.shields.io/badge/Language-Bash-green">
+<image src="https://img.shields.io/badge/Tools-Adobe%20Illustrator-orange">
 <image src="https://img.shields.io/badge/Tools-Unity-lightgrey">
-  
+<image src="https://img.shields.io/badge/Tools-Godot%20Engine-blue">
+<image src="https://img.shields.io/badge/Tools-VS%20Code-blue">
+<image src="https://img.shields.io/badge/Tools-Git-blueviolet">
+<image src="https://img.shields.io/badge/Tools-Plastic%20SCM-red">
+<image src="https://img.shields.io/badge/Tools-Azure%20DevOps-blue">
